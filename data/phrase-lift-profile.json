@@ -1,0 +1,54 @@
+{
+  "generatedAt": "2026-05-23T14:16:05.006323+00:00",
+  "purpose": "Demo phrase profile for a small synthetic transcript set (regenerate with npm run phrase:profile).",
+  "baseline": {
+    "totalCalls": 10,
+    "booked": 5,
+    "notBooked": 5,
+    "bookingRate": 0.5
+  },
+  "model": {
+    "type": "tfidf_logistic_regression",
+    "target": "demo_booked",
+    "crossValidation": {
+      "folds": 5,
+      "rocAuc": 0.82
+    }
+  },
+  "languageSignals": {
+    "positiveForBooking": [
+      {
+        "phrase": "google business profile",
+        "n": 2,
+        "weight": 0.41
+      },
+      {
+        "phrase": "direct ordering",
+        "n": 3,
+        "weight": 0.36
+      },
+      {
+        "phrase": "calendar invite",
+        "n": 4,
+        "weight": 0.28
+      }
+    ],
+    "negativeForBooking": [
+      {
+        "phrase": "commission fees",
+        "n": 3,
+        "weight": -0.33
+      },
+      {
+        "phrase": "replace your website",
+        "n": 2,
+        "weight": -0.29
+      },
+      {
+        "phrase": "four ninety-nine",
+        "n": 1,
+        "weight": -0.25
+      }
+    ]
+  }
+}

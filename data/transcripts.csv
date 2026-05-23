@@ -1,0 +1,80 @@
+call_id,transcript,call_duration_min,call_outcome,rep_id,rep_tenure,cuisine_type,restaurant_type,num_locations,_LOADED_AT,_LOADED_BY
+call_001,"the prospect (rest_001): Good afternoon, Mesa Grill.
+rep_03: Hi, this is rep_03 from ServeLine. Is Maria available?
+the prospect (rest_001): Speaking.
+rep_03: Your Google Business Profile gets strong local traffic, but the menu button sends guests to DoorDash.
+the prospect (rest_001): Yeah, we've used DoorDash for a couple years.
+rep_03: A lot of owners keep delivery and still grow direct pickup orders on their own site.
+the prospect (rest_001): Commissions are getting painful, honestly.
+rep_03: Would a fifteen-minute walkthrough Thursday at two work?
+the prospect (rest_001): Thursday at two works.
+rep_03: Great, I'll send a calendar invite.
+the prospect (rest_001): Perfect, thanks.",8,demo_booked,rep_03,senior,Mexican,quick_service,2,2026-05-23 14:16:00.850,demo_sample_data
+call_002,"the prospect (rest_002): Lotus Kitchen.
+rep_11: Hi, rep_11 from ServeLine. We replace your website and cut third-party fees.
+the prospect (rest_002): We're not looking for a new vendor.
+rep_11: I can explain how we work with restaurants like yours.
+the prospect (rest_002): Please take us off your list.
+rep_11: Okay, thanks.",3,not_booked,rep_11,new,Thai,full_service,1,2026-05-23 14:16:00.850,demo_sample_data
+call_003,"the prospect (rest_003): Roma Trattoria, how can I help?
+rep_10: Hi, rep_10 with ServeLine. I was hoping to reach the owner about online ordering.
+the prospect (rest_003): Marco handles that. He's in tonight around six.
+rep_10: Got it. Could I leave a callback number for a quick review of your Google listing?
+the prospect (rest_003): Sure, he asked about direct ordering last week anyway.
+rep_10: I'll call back at six-thirty and can hold a demo slot tomorrow morning if he's free.
+the prospect (rest_003): Tomorrow at ten works for him.
+rep_10: Perfect, I'll confirm by text.",6,demo_booked,rep_10,mid,Italian,full_service,1,2026-05-23 14:16:00.850,demo_sample_data
+call_004,"the prospect (rest_004): Sunrise Cafe.
+rep_07: rep_07 from ServeLine about commission fees on delivery apps.
+the prospect (rest_004): We don't do delivery. Not interested.
+rep_07: We also help with local Google discovery.
+the prospect (rest_004): Still no. Bye.",2,not_booked,rep_07,senior,American,cafe,1,2026-05-23 14:16:00.850,demo_sample_data
+call_005,"the prospect (rest_005): Spice Route, this is Priya.
+rep_02: Hi Priya, rep_02 from ServeLine. Quick question about how guests order online across your three locations.
+the prospect (rest_005): We already use a platform for online ordering.
+rep_02: Understood. Are all three menus synced the same way, or does each location manage its own?
+the prospect (rest_005): Each manager updates their own menu, which is a headache.
+rep_02: ServeLine gives one dashboard for menus, pickup, and loyalty across locations.
+the prospect (rest_005): That would save us time. Can you show that?
+rep_02: Yes — would Wednesday at eleven work for a short screen share?
+the prospect (rest_005): Wednesday at eleven is fine.
+rep_02: I'll send the invite to priya at spiceroute dot example.
+the prospect (rest_005): Sounds good.",11,demo_booked,rep_02,senior,Indian,full_service,3,2026-05-23 14:16:00.850,demo_sample_data
+call_006,"the prospect (rest_006): Lowcountry Table.
+rep_05: rep_05 from ServeLine. We build restaurant websites, run Google ads, handle email campaigns, loyalty apps, and catering pages all in one platform.
+the prospect (rest_006): That's a lot. We're a fifty-seat dining room.
+rep_05: Most restaurants need every channel to compete online today.
+the prospect (rest_006): I really just need the phone to stop ringing with sales calls.
+rep_05: I hear you. We also replace your website entirely.
+the prospect (rest_006): Not for us. Goodbye.",5,not_booked,rep_05,new,Southern,full_service,1,2026-05-23 14:16:00.850,demo_sample_data
+call_007,"the prospect (rest_007): Olive and Fig, Carlos speaking.
+rep_04: Hey Carlos, rep_04 from ServeLine. I pulled up your site on mobile and the menu took forever to load.
+the prospect (rest_007): Yeah, our web guy keeps saying he'll fix it.
+rep_04: Slow mobile pages hurt Google rankings and direct orders, especially with four locations.
+the prospect (rest_007): We keep paying for fixes that don't stick.
+rep_04: ServeLine hosts the site and menu together so updates roll out once for every store.
+the prospect (rest_007): If you can show that on a quick demo, I'm in.
+rep_04: How's Friday at one?
+the prospect (rest_007): Friday at one works.
+rep_04: I'll send the invite now.",9,demo_booked,rep_04,mid,Mediterranean,quick_service,4,2026-05-23 14:16:00.850,demo_sample_data
+call_008,"the prospect (rest_008): Saigon Street.
+rep_08: rep_08 from ServeLine. Is the owner available?
+the prospect (rest_008): She's not in until Monday.
+rep_08: Can I book a demo for online ordering and SEO?
+the prospect (rest_008): I can't schedule anything without her.
+rep_08: Could you ask her to call me back?
+the prospect (rest_008): I'll leave a note, but no promises.",4,not_booked,rep_08,mid,Vietnamese,full_service,2,2026-05-23 14:16:00.850,demo_sample_data
+call_009,"the prospect (rest_009): Golden Wok.
+rep_01: rep_01 from ServeLine. Our plans start at four ninety-nine a month with no setup fee this quarter.
+the prospect (rest_009): How much?
+rep_01: Four ninety-nine monthly, plus we reduce marketplace commissions.
+the prospect (rest_009): I don't even know what you do yet. Send an email.
+rep_01: I can explain in two minutes on the phone.
+the prospect (rest_009): Email first. Bye.",4,not_booked,rep_01,new,Chinese,full_service,1,2026-05-23 14:16:00.850,demo_sample_data
+call_010,"the prospect (rest_010): Akropolis Taverna, Elena here.
+rep_12: Hi Elena, rep_12 from ServeLine. You requested a product walkthrough on our site yesterday.
+the prospect (rest_010): Yes, I did. I wanted to see loyalty and email tools.
+rep_12: Perfect. I have you down for today at three — still good?
+the prospect (rest_010): Three works. I'll join from my laptop.
+rep_12: Great, I'll send the Google Meet link now.
+the prospect (rest_010): Thank you.",5,demo_booked,rep_12,new,Greek,full_service,1,2026-05-23 14:16:00.850,demo_sample_data

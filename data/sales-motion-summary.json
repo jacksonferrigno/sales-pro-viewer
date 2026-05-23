@@ -1,0 +1,60 @@
+{
+  "generated_at": "2026-05-20T20:45:31.594Z",
+  "model": "gpt-5.4-mini",
+  "summary_prompt_version": "7",
+  "source": {
+    "evidenceType": "phrase_lift_profile",
+    "phraseProfileGeneratedAt": "2026-05-20T20:34:43.834887+00:00",
+    "phraseProfilePath": "data/phrase-lift-profile.json",
+    "totalCalls": 10,
+    "bookingRate": 0.5,
+    "modelRocAuc": 0.7958011487423252
+  },
+  "summary": {
+    "headline": "Book more calls that lead with buyer-led discovery and Google Business Profile visibility, and less that drift into generic restaurant/commission framing.",
+    "tldr": "Baseline booking rate is 50.0% across 10 calls. The biggest coaching takeaway is to stay consultative and prospect-specific early, while avoiding broad restaurant pitch language and commission-fee talk unless the buyer brings it up.",
+    "signals": [
+      {
+        "direction": "helps",
+        "title": "Anchor on Google Business Profile visibility",
+        "insight": "Calls that discuss Google Business Profile or online business visibility book at 100.0%, which is 50.0 points above the 50.0% baseline across 3 calls, so reps should connect the conversation to how the prospect is showing up online and what that means for their growth.",
+        "exampleCallIds": [
+          "call_001",
+          "call_003",
+          "call_007"
+        ]
+      },
+      {
+        "direction": "hurts",
+        "title": "Avoid early commission and fee framing",
+        "insight": "Calls that lean into commission fees book at 0.0%, which is 50.0 points below baseline across 3 calls, so reps should avoid centering price or payout structure too early and instead earn that conversation after the buyer sees relevance.",
+        "exampleCallIds": [
+          "call_002",
+          "call_004",
+          "call_009"
+        ]
+      },
+      {
+        "direction": "helps",
+        "title": "Use buyer-led, consultative pacing",
+        "insight": "Calls with language like you're looking or you're going book at 100.0%, which is 50.0 points above baseline across 4 calls, so reps should keep the prospect talking about priorities and next steps rather than pushing a rigid pitch.",
+        "exampleCallIds": [
+          "call_001",
+          "call_005",
+          "call_007",
+          "call_010"
+        ]
+      },
+      {
+        "direction": "hurts",
+        "title": "Skip the generic restaurant pitch",
+        "insight": "Calls that stay in a broad restaurant-ranking or local SEO pitch book at 0.0%, which is 50.0 points below baseline across 3 calls, so reps should tailor discovery to the prospect's actual situation instead of leading with a one-size-fits-all restaurant message.",
+        "exampleCallIds": [
+          "call_002",
+          "call_006",
+          "call_008"
+        ]
+      }
+    ]
+  }
+}

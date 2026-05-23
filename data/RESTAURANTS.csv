@@ -1,0 +1,11 @@
+restaurant_id,name,city,state,cuisine_type,business_type,website_url,num_locations,_LOADED_AT,_LOADED_BY
+rest_001,"Mesa Grill",Austin,TX,Mexican,quick_service,mesagrill.example,2,2026-05-23 14:16:00.850,demo_sample_data
+rest_002,"Lotus Kitchen",Seattle,WA,Thai,full_service,lotuskitchen.example,1,2026-05-23 14:16:00.850,demo_sample_data
+rest_003,"Roma Trattoria",Chicago,IL,Italian,full_service,romatrattoria.example,1,2026-05-23 14:16:00.850,demo_sample_data
+rest_004,"Sunrise Cafe",Nashville,TN,American,cafe,sunrisecafe.example,1,2026-05-23 14:16:00.850,demo_sample_data
+rest_005,"Spice Route",Atlanta,GA,Indian,full_service,spiceroute.example,3,2026-05-23 14:16:00.850,demo_sample_data
+rest_006,"Lowcountry Table",Charleston,SC,Southern,full_service,lowcountrytable.example,1,2026-05-23 14:16:00.850,demo_sample_data
+rest_007,"Olive & Fig",San Diego,CA,Mediterranean,quick_service,oliveandfig.example,4,2026-05-23 14:16:00.850,demo_sample_data
+rest_008,"Saigon Street",Houston,TX,Vietnamese,full_service,saigonstreet.example,2,2026-05-23 14:16:00.850,demo_sample_data
+rest_009,"Golden Wok",San Francisco,CA,Chinese,full_service,goldenwok.example,1,2026-05-23 14:16:00.850,demo_sample_data
+rest_010,"Akropolis Taverna",Boston,MA,Greek,full_service,akropolistaverna.example,1,2026-05-23 14:16:00.850,demo_sample_data
